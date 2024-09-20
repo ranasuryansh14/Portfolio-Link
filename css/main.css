@@ -189,10 +189,12 @@ body {
           transform: scale(1.1);
   -webkit-filter: invert(0);
           filter: invert(0);
+          
 }
 
 .container footer .social a img {
   height: 3rem;
+  
 }
 
 @media screen and (max-width: 820px) {
